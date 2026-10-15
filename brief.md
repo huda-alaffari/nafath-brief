@@ -74,3 +74,4 @@ In the past, it was commonly believed that there was only one type of hacker: an
 This raises the question: what are the different types of hackers, and how are they classified based on their objectives and methods of operation?
 
 ## Open Question
+what are the different types of hackers, and how are they classified based on their objectives and methods of operation?
