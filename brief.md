@@ -69,5 +69,8 @@ Resource: <title:Software Bill of Materials (SBOM)> - <full[URL](https://www.cis
 Resource: <title:The Minimum Elements For a Software Bill of Materials (SBOM)> - <full[URL](https://www.ntia.gov/sites/default/files/publications/sbom_minimum_elements_report_0.pdf)>
 
 ## Misconception in My Track
+In the past, it was commonly believed that there was only one type of hacker: an individual who sabotages systems or steals data with the intent to cause harm and threaten those whose information has been compromised. In reality, however, there are various categories of hackers—including those who are harmless, known as "ethical hackers." 
+
+This raises the question: what are the different types of hackers, and how are they classified based on their objectives and methods of operation?
 
 ## Open Question
